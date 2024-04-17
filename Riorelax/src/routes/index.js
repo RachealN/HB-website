@@ -3,8 +3,6 @@ import { Route, Routes, useLocation } from 'react-router-dom'
 import Navbar from '../component/Navbar/Main'
 import Footer from '../component/Footer/Main'
 import Home from '../component/Home/Main'
-import Home2 from '../component/Home2/Main'
-import Home3 from '../component/Home3/Main'
 import Home4 from '../component/Home4/Main'
 import About from '../component/About/Main'
 import OurRoom from '../component/Rooms/OurRoom/Main'
@@ -52,8 +50,6 @@ const Routing = () => {
             {homepage && <Navbar />}
             <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path="/home-02" element={<Home2 />} />
-                <Route path="/home-03" element={<Home3 />} />
                 <Route path="/home-04" element={<Home4 />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/room" element={<OurRoom />} />

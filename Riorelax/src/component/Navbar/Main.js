@@ -67,8 +67,6 @@ const Main = () => {
                                                     <Link to="/">Home</Link>
                                                     <ul>
                                                         <li><Link to="/">Home Page 01</Link></li>
-                                                        <li><Link to="/home-02">Home Page 02</Link></li>
-                                                        <li><Link to="/home-03">Home Page Side Menu</Link></li>
                                                         <li><Link to="/home-04">Home Page Full Menu</Link></li>
                                                     </ul>
                                                 </li>
@@ -131,8 +129,6 @@ const Main = () => {
                                                         <Link to="/">Home</Link>
                                                         <ul style={{ display: show ? "block" : "none" }}>
                                                             <li><Link to="/">Home Page 01</Link></li>
-                                                            <li><Link to="/home-02">Home Page 02</Link></li>
-                                                            <li><Link to="/home-03">Home Page Side Menu</Link></li>
                                                             <li><Link to="/home-04">Home Page Full Menu</Link></li>
                                                         </ul>
                                                         <Link to="#" className={`mean-expand ${show && "mean-clicked"}`}  onClick = {() => setshow(show === true ? false : true)} style={{ fontSize: "18px" }}>{show ? "-" : "+" }</Link>
