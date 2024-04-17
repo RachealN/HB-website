@@ -10,7 +10,7 @@ function Take() {
 
   return (
     <>
-         <section id="video" className="video-area pt-150 pb-150 p-relative" style={{backgroundImage: `url(${BGVideo})`, background_repeat: "no-repeat", background_position: "bottom", background_size:"cover"}}>
+         <section id="video" className="video-area pt-150 pb-150 p-relative" style={{backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg.8d9e707a732f2eb9aa9d.png")', background_repeat: "no-repeat", background_position: "bottom", background_size:"cover"}}>
                 <div className="content-lines-wrapper2">
                     <div className="content-lines-inner2">
                         <div className="content-lines2"></div>
@@ -26,7 +26,7 @@ function Take() {
                             </div>
                             <div className="section-title center-align text-center">
                                 <h2>
-                                 Take A Tour Of Luxuri
+                                 Take A Tour Of Luxury
                                 </h2>
                             </div>
                         </div>

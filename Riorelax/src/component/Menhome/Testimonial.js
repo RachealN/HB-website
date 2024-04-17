@@ -44,7 +44,7 @@ function Testimonial() {
 
   return (
     <>
-        <section className="testimonial-area pt-120 pb-90 p-relative fix" style={{backgroundImage: `url(${BGTest})`, background_size: "cover"}} >
+        <section className="testimonial-area pt-120 pb-90 p-relative fix" style={{backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/testimonial-bg.31412beecfbce8b1bbb9.png")', background_size: "cover"}} >
                 <div className="container">
                     <div className="row">
                          <div className="col-lg-12">

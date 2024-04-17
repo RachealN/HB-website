@@ -14,9 +14,9 @@ function Most() {
                     <div className="row justify-content-center align-items-center">
                         <div className="col-lg-6 col-md-12 col-sm-12">
                             <div className="s-about-img p-relative  wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                                <img src={About1} alt="img"/>   
+                            <img src="https://mediacity.co.in/riorelax/static/media/about_img_02.7e903ba6dfa05e8fba95.png" alt="img"/>
                                 <div className="about-icon">
-                                    <img src={About2} alt="img"/>   
+                                <img src="https://mediacity.co.in/riorelax/static/media/about_img_03.1c5c297b3a2fd0ad6b03.png" alt="img"/>  
                                 </div>
                             </div>
                         </div>
