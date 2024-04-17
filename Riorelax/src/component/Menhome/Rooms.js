@@ -93,8 +93,8 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">classNameic Balcony Room</Link></h4>    
-                                    <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
+                                    <h4><Link to="/room-details"> Balcony Room</Link></h4>    
+                                    <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway</p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>
@@ -126,7 +126,7 @@ function Rooms() {
                                         </ul>
                                     </div>
                                     <h4><Link to="/room-details">Superior Double Room</Link></h4>    
-                                    <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta ex, in imperdiet tortor feugiat at.</p>
+                                    <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway</p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>
@@ -157,8 +157,8 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Super Balcony Double Room</Link></h4>    
-                                    <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
+                                    <h4><Link to="/room-details">Double cottage</Link></h4>    
+                                    <p>Our super balcony room offers a luxurious escape with a private balcony overlooking stunning views. The room features a comfortable king-sized bed, modern amenities, and elegant decor. </p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>
@@ -190,7 +190,7 @@ function Rooms() {
                                         </ul>
                                     </div>
                                     <h4><Link to="/room-details">Delux Double Room</Link></h4>    
-                                   <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
+                                   <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway.</p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>

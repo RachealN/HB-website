@@ -50,7 +50,7 @@ function Sliderhome() {
             <section id="home" className="slider-area fix p-relative">
                 <Slider className="slider-active" {...home}>
                     <div className="col-xl-2">
-                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: `url(${BGImg})` }}>
+                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg.8d9e707a732f2eb9aa9d.png")', backgroundSize: "cover" }} >
                             <div className="container">
                                 <div className="row justify-content-center align-items-center">
                                     <div className="col-lg-7 col-md-7">
@@ -69,7 +69,7 @@ function Sliderhome() {
                         </div>
                     </div>
                     <div className="col-xl-2">
-                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: `url(${BGImg1})`, background_size: "cover" }}>
+                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg_01.8ac0645590509cc94f1b.png")', backgroundSize: "cover" }}>
                             <div className="container">
                                 <div className="row justify-content-center align-items-center">
                                     <div className="col-lg-7 col-md-7">

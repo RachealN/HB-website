@@ -69,7 +69,7 @@ function Testimonial() {
                                         <img src={Aicon1} alt="img"/>
                                      </div>
                                     <p>“
-"We had an unforgettable weekend at this wonderful lodge! The ambiance was simply superb: cozy rooms, stunning views of nature, and excellent service. The staff was very friendly and attentive, always ready to help. I will definitely be back here again!"”.</p>
+"We had an unforgettable weekend at this wonderful lodge! The ambiance was simply superb: cozy rooms, stunning views of nature, and excellent service”.</p>
                                     
                                     <div className="qt-img">
                                     <img src={Aicon} alt="img"/>
