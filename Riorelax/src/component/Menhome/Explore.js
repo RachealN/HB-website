@@ -19,9 +19,9 @@ function Explore() {
                             <div className="section-title center-align mb-50 text-center">
                                 <h5>Explore</h5>
                                 <h2>
-                                    The Hotel
+                                    The Bar and Restaurant
                                 </h2>
-                                <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
+                                <p>Our Restaurant has got  enough space for casual dining with family and friends. Our experienced chefs prepare contemporary continental as well as local cuisine featuring a wide variety of creative dishes. Both Breakfast and Lunch Buffet.</p>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -33,8 +33,8 @@ function Explore() {
                                      <img src={Hotel1} alt="img"/>
                                     </div>
                                     <div className="services-08-content">
-                                        <h3><Link to="/service-details"> Qulity Room</Link></h3>
-                                        <p>Nullam molestie lacus sit amet velit fermentum feugiat. Mauris auctor eget nunc sit amet.</p>
+                                        <h3><Link to="/service-details"> Quality Room</Link></h3>
+                                        <p>We will have information about each specific suite here</p>
                                         <Link to="/service-details">Read More <i className="fal fa-long-arrow-right"></i></Link>
                                     </div>
                                 </div>

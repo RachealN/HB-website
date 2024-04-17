@@ -18,7 +18,7 @@ function Latest() {
                                 <h2>
                                     Latest Blog & News
                                 </h2>
-                                <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
+                                <p>Get the upto date information about our lodge its offfers and more.</p>
                             </div>                           
                         </div>
                     </div>
@@ -32,8 +32,8 @@ function Latest() {
                                     <div className="date-home">
                                         24th March 2022
                                     </div>
-                                    <h4><Link to="/blog-details">Cras accumsan nulla nec lacus ultricies placerat.</Link></h4> 
-                                    <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec tristique orci.</p>
+                                    <h4><Link to="/blog-details">A Retreat in Nature: Exploring the Charms of Our Lodge.</Link></h4> 
+                                    <p>Nestled in the heart of nature, our lodge offers a serene escape from the hustle and bustle of daily life. Surrounded by lush forests and stunning mountain views, every moment here feels like a peaceful retreat.</p>
                                     <div className="blog-btn"><Link to="/blog-details">Read More</Link></div>
                                      
                                 </div>
@@ -48,8 +48,8 @@ function Latest() {
                                     <div className="date-home">
                                        24th March 2022
                                     </div>
-                                    <h4><Link to="/blog-details">Dras accumsan nulla nec lacus ultricies placerat.</Link></h4> 
-                                    <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec tristique orci.</p>
+                                    <h4><Link to="/blog-details">A Retreat in Nature: Exploring the Charms of Our Lodge.</Link></h4> 
+                                    <p>Nestled in the heart of nature, our lodge offers a serene escape from the hustle and bustle of daily life. Surrounded by lush forests and stunning mountain views, every moment here feels like a peaceful retreat.</p>
                                     <div className="blog-btn"><Link to="/blog-details">Read More</Link></div>
                                 </div>
                             </div>
@@ -63,8 +63,8 @@ function Latest() {
                                     <div className="date-home">
                                         24th March 2022
                                     </div>
-                                    <h4><Link to="/blog-details">Seas accumsan nulla nec lacus ultricies placerat.</Link></h4> 
-                                    <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec tristique orci.</p>
+                                    <h4><Link to="/blog-details">A Retreat in Nature: Exploring the Charms of Our Lodge</Link></h4> 
+                                    <p>Nestled in the heart of nature, our lodge offers a serene escape from the hustle and bustle of daily life. Surrounded by lush forests and stunning mountain views, every moment here feels like a peaceful retreat.</p>
                                     <div className="blog-btn"><Link to="/blog-details">Read More</Link></div>
                                 </div>
                             </div>

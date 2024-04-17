@@ -71,7 +71,7 @@ function Rooms() {
                             <div className="section-title center-align mb-50 text-center">
                                 <h5>The pleasure of luxury</h5>
                                 <h2>Rooms & Suites</h2>
-                                <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
+                                <p>The Safari Lodge offers eleven elegant Cottages with private terraces overlooking the dramatic Lake Albert waters, the giant Eastern Rift Valley escapements and beautiful landscapes</p>
                             </div>
                         </div>
                     </div>
