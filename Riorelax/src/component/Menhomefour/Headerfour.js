@@ -24,7 +24,7 @@ function Headerfour() {
                                             <span>Mon - Sun: 24 hours </span>
                                         </li>
                                         <li><i className="far fa-mobile"></i>
-                                            <strong>+91 705 210-1786</strong>
+                                            <strong>Phone : +256 789 099 949 | +256 701 570 836</strong>
                                         </li>
                                     </ul>
                                 </div>
@@ -142,11 +142,9 @@ function Headerfour() {
                                                                 <li><Link to="/gallery">Gallery</Link></li>
                                                                 <li><Link to="/faq">Faq</Link></li>
                                                                 <li><Link to="/team">Team</Link></li>
-                                                                <li><Link to="/team-details">Team Details</Link></li>
-                                                                <li><Link to="/pricing">Pricing</Link></li>
-                                                                <li><Link to="/shop">Shop</Link></li>
-                                                                <li><Link to="/shop-details">Shop Details</Link>
-                                                                </li></ul>
+                                                               
+                                                          
+                                                            </ul>
                                                             <Link to="#" className={`mean-expand ${show3 && "mean-clicked"}`} onClick={() => setshow3(show3 === true ? false : true)} style={{ fontSize: "18px" }}>{show3 ? "-" : "+"}</Link></li>
                                                         <li className="has-sub">
                                                             <Link to="#" className={`mean-expand ${show4 && "mean-clicked"}`} onClick={() => setshow4(show4 === true ? false : true)} style={{ fontSize: "18px" }}>{show4 ? "-" : "+"}</Link></li>

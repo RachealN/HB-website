@@ -26,7 +26,7 @@ function Latest() {
                        <div className="col-lg-4 col-md-6">
                             <div className="single-post2 hover-zoomin mb-30 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                                 <div className="blog-thumb2">
-                                    <Link to="/blog-details"><img src={Blog1} alt="img"/></Link>
+                                    <Link to="/blog-details"><img src={"https://cloudfront.safaribookings.com/blog/2022/12/00-Four_South_African_Parks-BW-header1200px.jpg"} alt="img"/></Link>
                                 </div>                    
                                 <div className="blog-content2">    
                                     <div className="date-home">
@@ -42,7 +42,7 @@ function Latest() {
                          <div className="col-lg-4 col-md-6">
                             <div className="single-post2 mb-30 hover-zoomin wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                                 <div className="blog-thumb2">
-                                    <Link to="/blog-details"><img src={Blog2} alt="img"/></Link>
+                                    <Link to="/blog-details"><img src={"https://www.sprayedout.com/wp-content/uploads/2020/11/countryside-nature-landscape-sunset-web.jpg"} alt="img"/></Link>
                                 </div>
                                 <div className="blog-content2">                                    
                                     <div className="date-home">
@@ -57,7 +57,7 @@ function Latest() {
                         <div className="col-lg-4 col-md-6">
                             <div className="single-post2 mb-30 hover-zoomin wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                                 <div className="blog-thumb2">
-                                    <Link to="/blog-details"><img src={Blog3} alt="img"/></Link>
+                                    <Link to="/blog-details"><img src={"https://natureinmind.ie/wp-content/uploads/2016/12/6-600x400.jpg"} alt="img"/></Link>
                                 </div>
                                 <div className="blog-content2">                                    
                                     <div className="date-home">
