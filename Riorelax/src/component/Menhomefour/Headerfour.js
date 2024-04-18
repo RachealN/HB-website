@@ -21,7 +21,7 @@ function Headerfour() {
                                 <div className="header-cta">
                                     <ul>
                                         <li><i className="far fa-clock"></i>
-                                            <span>Mon - Fri: 9:00 - 19:00/ Closed on Weekends</span>
+                                            <span>Mon - Sun: 24 hours </span>
                                         </li>
                                         <li><i className="far fa-mobile"></i>
                                             <strong>+91 705 210-1786</strong>
@@ -48,7 +48,7 @@ function Headerfour() {
                             <div className="row align-items-center">
                                 <div className="col-xl-2 col-lg-2">
                                     <div className="logo">
-                                        <Link to="/"><img src="assets/img/logo/logo.png" alt="logo" /></Link>
+                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" /></Link>
                                     </div>
                                 </div>
                                 <div className="col-xl-9 col-lg-9">
@@ -83,18 +83,10 @@ function Headerfour() {
                                                         <li><Link to="/faq">Faq</Link></li>
                                                         <li><Link to="/team">Team</Link></li>
                                                         <li><Link to="/team-details">Team Details</Link></li>
-                                                        <li><Link to="/pricing">Pricing</Link></li>
-                                                        <li><Link to="/shop">Shop</Link></li>
-                                                        <li><Link to="/shop-details">Shop Details</Link></li>
+                                                        
                                                     </ul>
                                                 </li>
-                                                <li className="has-sub">
-                                                    <Link to="/blog">Blog</Link>
-                                                    <ul>
-                                                        <li><Link to="/blog">Blog</Link></li>
-                                                        <li><Link to="/blog-details">Blog Details</Link></li>
-                                                    </ul>
-                                                </li>
+                                            
                                                 <li><Link to="/contact">Contact</Link></li>
                                             </ul>
                                         </nav>
@@ -157,11 +149,6 @@ function Headerfour() {
                                                                 </li></ul>
                                                             <Link to="#" className={`mean-expand ${show3 && "mean-clicked"}`} onClick={() => setshow3(show3 === true ? false : true)} style={{ fontSize: "18px" }}>{show3 ? "-" : "+"}</Link></li>
                                                         <li className="has-sub">
-                                                            <Link to="/blog/">Blog</Link>
-                                                            <ul style={{ display: show4 ? "block" : "none" }}>
-                                                                <li><Link to="/blog/">Blog</Link></li>
-                                                                <li><Link to="/blog-details/">Blog Details</Link></li>
-                                                            </ul>
                                                             <Link to="#" className={`mean-expand ${show4 && "mean-clicked"}`} onClick={() => setshow4(show4 === true ? false : true)} style={{ fontSize: "18px" }}>{show4 ? "-" : "+"}</Link></li>
                                                         <li className="mean-last"><Link to="/contact">Contact</Link></li>
                                                     </ul>}

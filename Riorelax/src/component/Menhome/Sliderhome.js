@@ -1,6 +1,4 @@
 import React, { useState } from 'react'
-import BGImg from "../../assets/img/slider/slider_bg.png";
-import BGImg1 from "../../assets/img/slider/slider_bg_01.png";
 import Slider from "react-slick"
 import { Link } from 'react-router-dom';
 

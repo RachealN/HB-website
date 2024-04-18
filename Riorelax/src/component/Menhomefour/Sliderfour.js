@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
-import BGImg from "../../assets/img/slider/slider_bg_01.png";
+
 
 
 function Sliderfour() {
@@ -11,7 +11,7 @@ function Sliderfour() {
         <>
             <section id="home" className="slider-area fix p-relative">
                 <div className="slider-active" style={{ background: "#101010" }} >
-                    <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: `url(${BGImg})` }}>
+                    <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg.8d9e707a732f2eb9aa9d.png")', backgroundSize: "cover" }}>
                         <div className="container">
                             <div className="row justify-content-center align-items-center">
                                 <div className="col-lg-7 col-md-7">

@@ -28,7 +28,7 @@ const Main = () => {
                                     <ul>
                                         <li>
                                             <i className="far fa-clock"></i>
-                                            <span>Mon - Fri: 9:00 - 19:00/ Closed on Weekends</span>
+                                            <span>Mon - Sun: 24 hours</span>
                                         </li>
                                         <li>
                                             <i className="far fa-mobile"></i>
@@ -56,7 +56,7 @@ const Main = () => {
                             <div className="row align-items-center">
                                 <div className="col-xl-2 col-lg-2">
                                     <div className="logo">
-                                        <Link to="/"><img src="assets/img/logo/logo.png" alt="logo" /></Link>
+                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" /></Link>
                                     </div>
                                 </div>
                                 <div className="col-xl-8 col-lg-8">

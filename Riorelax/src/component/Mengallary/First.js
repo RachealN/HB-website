@@ -7,7 +7,7 @@ function First() {
     const [activeImage, setActiveImage] = useState(1);
 
     const [images, setImages] = useState([
-        'assets/img/gallery/protfolio-img02.png',
+        'https://mediacity.co.in/riorelax/assets/img/gallery/protfolio-img06.png',
         'assets/img/gallery/protfolio-img03.png',
         'assets/img/gallery/protfolio-img01.png',
         'assets/img/gallery/protfolio-img04.png',
@@ -71,7 +71,7 @@ function First() {
                                                     setToggler(!toggler)
                                                     setActiveImage(1)
                                                 }}>
-                                                    <img src="assets/img/gallery/protfolio-img02.png" alt="img" className="img" />
+                                                    <img src="https://mediacity.co.in/riorelax/assets/img/gallery/protfolio-img06.png" alt="img" className="img" />
                                                 </figure>
                                             </Link>
                                         </div>
