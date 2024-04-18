@@ -11,8 +11,8 @@ import Service from '../component/Facilities/Service/Main'
 import Gallery from '../component/Pages/Gallary/Main'
 import Faq from '../component/Faq/Main'
 import Team from '../component/Pages/Team/Main'
-import Blog from '../component/Blog/BlogMain/Main'
-import BlogDetails from '../component/Blog/BlogDetails/Main'
+// import Blog from '../component/Blog/BlogMain/Main'
+// import BlogDetails from '../component/Blog/BlogDetails/Main'
 import Contact from '../component/Contact/Main'
 
 
@@ -53,8 +53,8 @@ const Routing = () => {
                 <Route path="/gallery" element={<Gallery />} />
                 <Route path="/faq" element={<Faq />} />
                 <Route path="/team" element={<Team />} />
-                <Route path="/blog" element={<Blog />} />
-                <Route path="/blog-details" element={<BlogDetails />} />
+                {/* <Route path="/blog" element={<Blog />} />
+                <Route path="/blog-details" element={<BlogDetails />} /> */}
                 <Route path="/contact" element={<Contact />} />
             </Routes>
             {footerpage && <Footer />}
