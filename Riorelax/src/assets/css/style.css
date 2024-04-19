@@ -622,7 +622,7 @@ border-radius: 50%;
 color: #76b1c4;
 }
 .top-btn {
-    background: #be9874;
+    background: #23b4c4;
     padding: 16px 30px;
     width: 100%;
     float: left;
@@ -5728,6 +5728,7 @@ margin-bottom: 10px;
 .copyright-wrap .container{
     padding: 20px 0;
 }
+
 .copyright-wrap li {
     display: inline;
     padding-left: 15px;

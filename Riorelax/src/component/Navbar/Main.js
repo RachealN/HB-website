@@ -20,7 +20,7 @@ const Main = () => {
     return (
         <>
             <header className="header-area header-three">
-                <div className="header-top second-header d-none d-md-block">
+                <div className="header-top second-header d-none d-md-block pb-0">
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-10 col-md-10 d-none d-lg-block">
@@ -55,8 +55,8 @@ const Main = () => {
                         <div className="second-menu">
                             <div className="row align-items-center">
                                 <div className="col-xl-2 col-lg-2">
-                                    <div className="logo">
-                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" /></Link>
+                                    <div className="logo" style={{ height: '140px', marginTop: '-31px' }}>
+                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" style={{ height: '100px', marginTop: '29px' }}/></Link>
                                     </div>
                                 </div>
                                 <div className="col-xl-8 col-lg-8">
@@ -75,19 +75,19 @@ const Main = () => {
                                                     <Link to="/room">our rooms</Link>
                                                     <ul>
                                                         <li> <Link to="/room">Our Rooms</Link></li>
-                                                        <li> <Link to="/room-details">Rooms Details</Link></li>
+                                                        {/* <li> <Link to="/room-details">Rooms Details</Link></li> */}
                                                     </ul>
                                                 </li>
                                                 <li className="has-sub">
                                                     <Link to="/service">Facilities</Link>
                                                     <ul>
                                                         <li> <Link to="/service">Services</Link></li>
-                                                        <li> <Link to="/service-details">Services Details</Link></li>
+                                                        {/* <li> <Link to="/service-details">Services Details</Link></li> */}
                                                     </ul>
                                                 </li>
                                                 <li className="has-sub"><Link to="#">Pages</Link>
                                                     <ul>
-                                                        <li><Link to="/gallery">Gallery</Link></li>
+                                                        {/* <li><Link to="/gallery">Gallery</Link></li> */}
                                                         <li><Link to="/faq">Faq</Link></li>
                                                         <li><Link to="/team">Team</Link></li>
                                                         
@@ -97,7 +97,7 @@ const Main = () => {
                                                     <Link to="/blog">Blog</Link>
                                                     <ul>
                                                         <li><Link to="/blog">Blog</Link></li>
-                                                        <li><Link to="/blog-details">Blog Details</Link></li>
+                                                        {/* <li><Link to="/blog-details">Blog Details</Link></li> */}
                                                     </ul>
                                                 </li>
                                                 <li><Link to="/contact">Contact</Link></li>
@@ -135,7 +135,7 @@ const Main = () => {
                                                         <Link to="/room">our rooms</Link>
                                                         <ul style={{ display: show1 ? "block" : "none" }}>
                                                             <li> <Link to="/room">Our Rooms</Link></li>
-                                                            <li> <Link to="/room-details">Rooms Details</Link></li>
+                                                            {/* <li> <Link to="/room-details">Rooms Details</Link></li> */}
                                                         </ul>
                                                         <Link to="#" className={`mean-expand ${show1 && "mean-clicked"}`} onClick = {() => setshow1(show1 === true ? false : true)} style={{ fontSize: "18px" }}>{show1 ? "-" : "+" }</Link></li>
                                                     <li className="has-sub">
@@ -147,7 +147,7 @@ const Main = () => {
                                                         <Link to="#" className={`mean-expand ${show2 && "mean-clicked"}`} onClick = {() => setshow2(show2 === true ? false : true)}  style={{ fontSize: "18px" }}>{show2 ? "-" : "+" }</Link></li>
                                                     <li className="has-sub"><Link to="#">Pages</Link>
                                                         <ul style={{ display: show3 ? "block" : "none" }}>
-                                                            <li><Link to="/gallery">Gallery</Link></li>
+                                                            {/* <li><Link to="/gallery">Gallery</Link></li> */}
                                                             <li><Link to="/faq">Faq</Link></li>
                                                             <li><Link to="/team">Team</Link></li>
                                                          </ul>
@@ -156,7 +156,7 @@ const Main = () => {
                                                         <Link to="/blog/">Blog</Link>
                                                         <ul style={{ display: show4 ? "block" : "none" }}>
                                                             <li><Link to="/blog/">Blog</Link></li>
-                                                            <li><Link to="/blog-details/">Blog Details</Link></li>
+                                                            {/* <li><Link to="/blog-details/">Blog Details</Link></li> */}
                                                         </ul>
                                                         <Link to="#"  className={`mean-expand ${show4 && "mean-clicked"}`} onClick = {() => setshow4(show4 === true ? false : true)} style={{ fontSize: "18px" }}>{show4 ? "-" : "+" }</Link></li>
                                                     <li className="mean-last"><Link to="/contact">Contact</Link></li>

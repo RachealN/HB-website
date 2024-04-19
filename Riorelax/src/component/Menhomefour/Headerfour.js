@@ -47,8 +47,8 @@ function Headerfour() {
                         <div className="second-menu">
                             <div className="row align-items-center">
                                 <div className="col-xl-2 col-lg-2">
-                                    <div className="logo">
-                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" /></Link>
+                                    <div className="logo" style={{ height: '140px', marginTop: '-31px' }}>
+                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" style={{ height: '100px', marginTop: '29px' }}/></Link>
                                     </div>
                                 </div>
                                 <div className="col-xl-9 col-lg-9">
@@ -74,12 +74,12 @@ function Headerfour() {
                                                     <Link to="/service">Facilities</Link>
                                                     <ul>
                                                         <li> <Link to="/service">Services</Link></li>
-                                                        <li> <Link to="/service-details">Services Details</Link></li>
+                                                        {/* <li> <Link to="/service-details">Services Details</Link></li> */}
                                                     </ul>
                                                 </li>
                                                 <li className="has-sub"><Link to="#">Pages</Link>
                                                     <ul>
-                                                        <li><Link to="/gallery">Gallery</Link></li>
+                                                        {/* <li><Link to="/gallery">Gallery</Link></li> */}
                                                         <li><Link to="/faq">Faq</Link></li>
                                                         <li><Link to="/team">Team</Link></li>
                                                         <li><Link to="/team-details">Team Details</Link></li>
@@ -127,19 +127,19 @@ function Headerfour() {
                                                             <Link to="/room">our rooms</Link>
                                                             <ul style={{ display: show1 ? "block" : "none" }}>
                                                                 <li> <Link to="/room">Our Rooms</Link></li>
-                                                                <li> <Link to="/room-details">Rooms Details</Link></li>
+                                                                {/* <li> <Link to="/room-details">Rooms Details</Link></li> */}
                                                             </ul>
                                                             <Link to="#" className={`mean-expand ${show1 && "mean-clicked"}`} onClick={() => setshow1(show1 === true ? false : true)} style={{ fontSize: "18px" }}>{show1 ? "-" : "+"}</Link></li>
                                                         <li className="has-sub">
                                                             <Link to="/service">Facilities</Link>
                                                             <ul style={{ display: show2 ? "block" : "none" }}>
                                                                 <li> <Link to="/service">Services</Link></li>
-                                                                <li> <Link to="/service-details">Services Details</Link></li>
+                                                                {/* <li> <Link to="/service-details">Services Details</Link></li> */}
                                                             </ul>
                                                             <Link to="#" className={`mean-expand ${show2 && "mean-clicked"}`} onClick={() => setshow2(show2 === true ? false : true)} style={{ fontSize: "18px" }}>{show2 ? "-" : "+"}</Link></li>
                                                         <li className="has-sub"><Link to="#">Pages</Link>
                                                             <ul style={{ display: show3 ? "block" : "none" }}>
-                                                                <li><Link to="/gallery">Gallery</Link></li>
+                                                                {/* <li><Link to="/gallery">Gallery</Link></li> */}
                                                                 <li><Link to="/faq">Faq</Link></li>
                                                                 <li><Link to="/team">Team</Link></li>
                                                                
@@ -176,7 +176,7 @@ function Headerfour() {
                                 <li className="menu-item menu-item-type-custom menu-item-object-custom"><Link to="/pricing">Pricing </Link></li>
                                 <li className="menu-item menu-item-type-custom menu-item-object-custom"><Link to="/team">Team </Link></li>
                                 
-                                <li className="menu-item menu-item-type-custom menu-item-object-custom"><Link to="/gallary">Gallery Study</Link></li>
+                                {/* <li className="menu-item menu-item-type-custom menu-item-object-custom"><Link to="/gallary">Gallery Study</Link></li> */}
                                 <li className="menu-item menu-item-type-custom menu-item-object-custom"><Link to="/blog">Blog</Link></li>
                             <li className="menu-item menu-item-type-custom menu-item-object-custom"><Link to="/contact">Contact</Link></li>
                         </ul>

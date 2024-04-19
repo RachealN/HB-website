@@ -10,7 +10,7 @@ function First() {
         'https://mediacity.co.in/riorelax/assets/img/gallery/protfolio-img06.png',
         'assets/img/gallery/protfolio-img03.png',
         'assets/img/gallery/protfolio-img01.png',
-        'assets/img/gallery/protfolio-img04.png',
+        'https://www.acaciahotelsmanila.com/wp-content/uploads/2023/05/Rooms-and-Suites-AHM-1.jpg',
         'assets/img/gallery/protfolio-img05.png',
         'assets/img/gallery/protfolio-img06.png',
         'assets/img/gallery/protfolio-img07.png',
@@ -107,7 +107,7 @@ function First() {
                                                     setActiveImage(4)
                                                     setToggler(!toggler)
                                                 }}>
-                                                    <img src="assets/img/gallery/protfolio-img04.png" alt="img" className="img" />
+                                                    <img src="https://www.acaciahotelsmanila.com/wp-content/uploads/2023/05/Rooms-and-Suites-AHM-1.jpg" alt="img" className="img" />
                                                 </figure>
                                             </Link>
                                         </div>
@@ -224,7 +224,7 @@ function First() {
                                                         setActiveImage(4)
                                                         setToggler(!toggler)
                                                     }}>
-                                                        <img src="assets/img/gallery/protfolio-img04.png" alt="img" className="img" />
+                                                        <img src="https://www.acaciahotelsmanila.com/wp-content/uploads/2023/05/Rooms-and-Suites-AHM-1.jpg" alt="img" className="img" />
                                                     </figure>
                                                 </Link>
                                             </div>
