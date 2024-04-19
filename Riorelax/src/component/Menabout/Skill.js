@@ -3,7 +3,7 @@ import React from 'react'
 function Skill() {
     return (
         <>
-            <section id="skill" className="skill-area p-relative fix" style={{ background: "#291d16" }}>
+            <section id="skill" className="skill-area p-relative fix" style={{ background: "#1d7694" }}>
                 <div className="animations-01"><img src="assets/img/bg/an-img-05.png" alt="contact-bg-an-05" /></div>
                 <div className="container">
                     <div className="row justify-content-center align-items-center">

@@ -3,7 +3,7 @@ import React from 'react'
 function News() {
     return (
         <>
-            <section className="newslater-area p-relative pt-120 pb-120" style={{ background: "#f7f5f1" }}>
+            <section className="newslater-area p-relative pt-120 pb-120" style={{ background: "#1d7694" }}>
                 <div className="animations-01"><img src="assets/img/bg/an-img-07.png" alt="contact-bg-an-05" /></div>
                 <div className="container">
                     <div className="row justify-content-center align-items-center text-center">

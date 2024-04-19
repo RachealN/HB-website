@@ -1210,11 +1210,13 @@ font-size: 18px;
   right: 0;
   top: 30px;
 }
+
 .overlay-bg-04 {
   position: absolute;
   right: 0;
   bottom: 100px;
 }
+
 .slider-bg {
 	min-height: 600px !important;
 	background-position: center bottom;

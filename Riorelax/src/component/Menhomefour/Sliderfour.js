@@ -11,12 +11,12 @@ function Sliderfour() {
         <>
             <section id="home" className="slider-area fix p-relative">
                 <div className="slider-active" style={{ background: "#101010" }} >
-                    <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg.8d9e707a732f2eb9aa9d.png")', backgroundSize: "cover" }}>
+                    <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://www.bluediamondrivieramaya.com/images/gallery/gallery-4.jpg")', backgroundSize: "cover" }}>
                         <div className="container">
                             <div className="row justify-content-center align-items-center">
                                 <div className="col-lg-7 col-md-7">
                                     <div className="slider-content s-slider-content mt-80 text-center">
-                                        <h2 data-animation="fadeInUp" data-delay=".4s">The Magnificent Oil Field Safari Lodge</h2>
+                                        <h2 data-animation="fadeInUp" data-delay=".4s"></h2>
                                        
 
                                         <div className="slider-btn mt-30 mb-105">
