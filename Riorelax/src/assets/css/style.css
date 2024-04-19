@@ -5721,7 +5721,7 @@ margin-bottom: 10px;
 .f-insta ul li:hover a::before{top: 50%;opacity: 1;}
 .f-insta ul li:hover a::after{opacity: .6;}
 .copyright-wrap {
-    background: #282828;
+    background: #1d7694;
     color: #fff;
     font-size: 15px;
 }

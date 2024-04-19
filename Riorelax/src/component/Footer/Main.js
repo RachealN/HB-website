@@ -18,18 +18,18 @@ const Main = () => {
                                     <ul>
                                         <li>
                                             <i className="icon fal fa-phone"></i>
-                                            <span>1800-121-3637<br/>+91-7052-101-786</span>
+                                            <span>+256 789 099 949<br/>+256 701 570 836</span>
                                         </li>
                                         <li>
                                             <i className="icon fal fa-envelope"></i>
                                             <span>
-                                                <Link to="#">info@example.com</Link><br/>
-                                                <Link to="#">help@example.com</Link>
+                                                
+                                                <Link to="#"> reservations@hbsafarilodge.com</Link>
                                             </span>
                                         </li>
                                         <li>
                                             <i className="icon fal fa-map-marker-check"></i>
-                                            <span>1247/Plot No. 39, 15th Phase,<br/> LHB Colony, Kanpur</span>
+                                            <span>Location : Kasenyi Village <br/> Buliisa District, Uganda</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -89,7 +89,7 @@ const Main = () => {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">                         
-                           Copyright &copy; Riorelax 2022 . All rights reserved.         
+                           Copyright &copy; Bulisa 2024 . All rights reserved.         
                         </div>
                         <div className="col-lg-6 col-md-6 text-right text-xl-right">                       
                            <div className="footer-social">                                    
