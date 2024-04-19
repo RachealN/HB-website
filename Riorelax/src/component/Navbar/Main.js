@@ -55,8 +55,8 @@ const Main = () => {
                         <div className="second-menu">
                             <div className="row align-items-center">
                                 <div className="col-xl-2 col-lg-2">
-                                    <div className="logo">
-                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" /></Link>
+                                    <div className="logo" style={{ height: '140px', marginTop: '-31px' }}>
+                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" style={{ height: '100px', marginTop: '29px' }}/></Link>
                                     </div>
                                 </div>
                                 <div className="col-xl-8 col-lg-8">
