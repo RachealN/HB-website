@@ -48,12 +48,12 @@ function Sliderhome() {
             <section id="home" className="slider-area fix p-relative">
                 <Slider className="slider-active" {...home}>
                     <div className="col-xl-2">
-                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg.8d9e707a732f2eb9aa9d.png")', backgroundSize: "cover" }} >
+                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://www.bluediamondrivieramaya.com/images/gallery/gallery-4.jpg")', }} >
                             <div className="container">
                                 <div className="row justify-content-center align-items-center">
                                     <div className="col-lg-7 col-md-7">
                                         <div className="slider-content s-slider-content mt-80 text-center">
-                                            <h2 className={`${animation && "animation" && "fadeInUp"} `} data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}>The Magnificent Oil Field Safari Lodge</h2>
+                                            <h2 className={`${animation && "animation" && "fadeInUp"} `} data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}></h2>
                                           
 
                                             <div className="slider-btn mt-30 mb-105">
@@ -67,12 +67,12 @@ function Sliderhome() {
                         </div>
                     </div>
                     <div className="col-xl-2">
-                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg_01.8ac0645590509cc94f1b.png")', backgroundSize: "cover" }}>
+                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2017/45759/0_pool-G.jpg")', backgroundSize: "cover" }}>
                             <div className="container">
                                 <div className="row justify-content-center align-items-center">
                                     <div className="col-lg-7 col-md-7">
                                         <div className="slider-content s-slider-content mt-80 text-center">
-                                            <h2 data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}>The Magnificent Oil Field Safari Lodge</h2>
+                                            <h2 data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}></h2>
                                           
 
                                             <div className="slider-btn mt-30 mb-105">
