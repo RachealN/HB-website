@@ -5,7 +5,7 @@ import BGImg from "../../assets/img/bg/bdrc-bg.jpg";
 function Main({title,subtitle,newtitle}) {
   return (
     <>
-        <section className="breadcrumb-area d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg.8d9e707a732f2eb9aa9d.png")', backgroundSize: "cover" }}>
+        <section className="breadcrumb-area d-flex align-items-center" style={{ backgroundImage: 'url("https://media.cnn.com/api/v1/images/stellar/prod/160920112147-beachfront-hotel-2-le-guanahani-2.jpg?q=w_1900,h_1069,x_0,y_0,c_fill")', backgroundSize: "cover" }}>
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-xl-12 col-lg-12">
