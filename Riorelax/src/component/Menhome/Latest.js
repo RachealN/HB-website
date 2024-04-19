@@ -18,7 +18,7 @@ function Latest() {
                                 <h2>
                                     Latest Blog & News
                                 </h2>
-                                <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
+                                <p>Get the upto date information about our lodge its offfers and more.</p>
                             </div>                           
                         </div>
                     </div>
@@ -26,14 +26,14 @@ function Latest() {
                        <div className="col-lg-4 col-md-6">
                             <div className="single-post2 hover-zoomin mb-30 wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                                 <div className="blog-thumb2">
-                                    <Link to="/blog-details"><img src={Blog1} alt="img"/></Link>
+                                    <Link to="/blog-details"><img src={"https://cloudfront.safaribookings.com/blog/2022/12/00-Four_South_African_Parks-BW-header1200px.jpg"} alt="img"/></Link>
                                 </div>                    
                                 <div className="blog-content2">    
                                     <div className="date-home">
                                         24th March 2022
                                     </div>
-                                    <h4><Link to="/blog-details">Cras accumsan nulla nec lacus ultricies placerat.</Link></h4> 
-                                    <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec tristique orci.</p>
+                                    <h4><Link to="/blog-details">A Retreat in Nature: Exploring the Charms of Our Lodge.</Link></h4> 
+                                    <p>Nestled in the heart of nature, our lodge offers a serene escape from the hustle and bustle of daily life. Surrounded by lush forests and stunning mountain views, every moment here feels like a peaceful retreat.</p>
                                     <div className="blog-btn"><Link to="/blog-details">Read More</Link></div>
                                      
                                 </div>
@@ -42,14 +42,14 @@ function Latest() {
                          <div className="col-lg-4 col-md-6">
                             <div className="single-post2 mb-30 hover-zoomin wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                                 <div className="blog-thumb2">
-                                    <Link to="/blog-details"><img src={Blog2} alt="img"/></Link>
+                                    <Link to="/blog-details"><img src={"https://www.sprayedout.com/wp-content/uploads/2020/11/countryside-nature-landscape-sunset-web.jpg"} alt="img"/></Link>
                                 </div>
                                 <div className="blog-content2">                                    
                                     <div className="date-home">
                                        24th March 2022
                                     </div>
-                                    <h4><Link to="/blog-details">Dras accumsan nulla nec lacus ultricies placerat.</Link></h4> 
-                                    <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec tristique orci.</p>
+                                    <h4><Link to="/blog-details">A Retreat in Nature: Exploring the Charms of Our Lodge.</Link></h4> 
+                                    <p>Nestled in the heart of nature, our lodge offers a serene escape from the hustle and bustle of daily life. Surrounded by lush forests and stunning mountain views, every moment here feels like a peaceful retreat.</p>
                                     <div className="blog-btn"><Link to="/blog-details">Read More</Link></div>
                                 </div>
                             </div>
@@ -57,14 +57,14 @@ function Latest() {
                         <div className="col-lg-4 col-md-6">
                             <div className="single-post2 mb-30 hover-zoomin wow fadeInUp animated" data-animation="fadeInUp" data-delay=".4s">
                                 <div className="blog-thumb2">
-                                    <Link to="/blog-details"><img src={Blog3} alt="img"/></Link>
+                                    <Link to="/blog-details"><img src={"https://natureinmind.ie/wp-content/uploads/2016/12/6-600x400.jpg"} alt="img"/></Link>
                                 </div>
                                 <div className="blog-content2">                                    
                                     <div className="date-home">
                                         24th March 2022
                                     </div>
-                                    <h4><Link to="/blog-details">Seas accumsan nulla nec lacus ultricies placerat.</Link></h4> 
-                                    <p>Curabitur sagittis libero tincidunt tempor finibus. Mauris at dignissim ligula, nec tristique orci.</p>
+                                    <h4><Link to="/blog-details">A Retreat in Nature: Exploring the Charms of Our Lodge</Link></h4> 
+                                    <p>Nestled in the heart of nature, our lodge offers a serene escape from the hustle and bustle of daily life. Surrounded by lush forests and stunning mountain views, every moment here feels like a peaceful retreat.</p>
                                     <div className="blog-btn"><Link to="/blog-details">Read More</Link></div>
                                 </div>
                             </div>

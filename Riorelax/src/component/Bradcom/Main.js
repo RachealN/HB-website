@@ -5,7 +5,7 @@ import BGImg from "../../assets/img/bg/bdrc-bg.jpg";
 function Main({title,subtitle,newtitle}) {
   return (
     <>
-        <section className="breadcrumb-area d-flex align-items-center" style={{ background : `url(${BGImg})`}}>
+        <section className="breadcrumb-area d-flex align-items-center" style={{ backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/slider_bg.8d9e707a732f2eb9aa9d.png")', backgroundSize: "cover" }}>
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-xl-12 col-lg-12">

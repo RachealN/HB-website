@@ -71,7 +71,7 @@ function Rooms() {
                             <div className="section-title center-align mb-50 text-center">
                                 <h5>The pleasure of luxury</h5>
                                 <h2>Rooms & Suites</h2>
-                                <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
+                                <p>The Safari Lodge offers eleven elegant Cottages with private terraces overlooking the dramatic Lake Albert waters, the giant Eastern Rift Valley escapements and beautiful landscapes</p>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@ function Rooms() {
                                     setToggler(!toggler)
                                     setActiveImage(1)
                                 }}>
-                                    <img src={service1} alt="img" />
+                                    <img src={"https://sitecore-cd-imgr.shangri-la.com/MediaFiles/9/8/4/%7B984A8BD0-FC33-4BC1-BF9A-661E56C4412F%7D72d8e1b8f63648b3a21cabed0642f70c.jpg"} alt="img" />
 									</Link>
                                 </div>
                                 <div className="services-content"> 
@@ -93,8 +93,8 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">classNameic Balcony Room</Link></h4>    
-                                    <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
+                                    <h4><Link to="/room-details"> Balcony Room</Link></h4>    
+                                    <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway</p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>
@@ -115,7 +115,7 @@ function Rooms() {
                                     setToggler(!toggler)
                                     setActiveImage(2)
                                 }}>
-                                    <img src={service2} alt="img"/>
+                                    <img src={"https://www.acaciahotelsmanila.com/wp-content/uploads/2023/05/Rooms-and-Suites-AHM-1.jpg"} alt="img"/>
 									</Link>
                                 </div>
                                 <div className="services-content"> 
@@ -125,8 +125,8 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Superior Double Room</Link></h4>    
-                                    <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta ex, in imperdiet tortor feugiat at.</p>
+                                    <h4><Link to="/room-details">Superior Suite</Link></h4>    
+                                    <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway</p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>
@@ -147,7 +147,7 @@ function Rooms() {
                                     setToggler(!toggler)
                                     setActiveImage(3)
                                 }} >
-                                    <img src={service3} alt="img"/>
+                                    <img src={"https://www.peninsula.com/en/-/media/pbk/rooms/deluxe-room-twin-bed.jpg?mw=905&hash=9515693D3D8455DE1F48031E23A9C6BA"} alt="img"/>
 									</Link>
                                 </div>
                                 <div className="services-content"> 
@@ -157,8 +157,8 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Super Balcony Double Room</Link></h4>    
-                                    <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
+                                    <h4><Link to="/room-details">Double cottage</Link></h4>    
+                                    <p>Our super balcony room offers a luxurious escape with a private balcony overlooking stunning views. The room features a comfortable king-sized bed, modern amenities, and elegant decor. </p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>
@@ -179,7 +179,7 @@ function Rooms() {
                                     setToggler(!toggler)
                                     setActiveImage(4)
                                 }}>
-                                    <img src={service4} alt="img"/>
+                                    <img src={"https://image-tc.galaxy.tf/wijpeg-dghgmolkfh6t706p9wohdl5ow/testing-100.jpg"} alt="img"/>
 									</Link>
                                 </div>
                                 <div className="services-content"> 
@@ -190,7 +190,7 @@ function Rooms() {
                                         </ul>
                                     </div>
                                     <h4><Link to="/room-details">Delux Double Room</Link></h4>    
-                                   <p>Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta place ullam ipsum. Morbi imperdiet, orci et dapibus.</p>
+                                   <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway.</p>
                                     <div className="icon">
                                         <ul>
                                             <li><img src={icon1} alt="img"/></li>

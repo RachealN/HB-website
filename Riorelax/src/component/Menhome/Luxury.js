@@ -7,12 +7,12 @@ function Luxury() {
   return (
     <>
         <section className="feature-area2 p-relative fix" style={{background: "#f7f5f1"}}>
-                 <div className="animations-02"><img src={Resort} alt="contact-bg-an-05"/></div>
+                 <div className="animations-02"><img src="https://mediacity.co.in/riorelax/static/media/about_img_02.7e903ba6dfa05e8fba95.png" alt="img"/></div>
                 <div className="container">
                     <div className="row justify-content-center align-items-center">
                          <div className="col-lg-6 col-md-12 col-sm-12 pr-30">
                            <div className="feature-img">                               
-                                <img src={Resort1} alt="img" className="img"/>              
+                           <img src="https://mediacity.co.in/riorelax/static/media/feature.19e9aa21add79eabff7d.png" alt="img" class="img"/>         
                             </div>
                         </div>
 					   <div className="col-lg-6 col-md-12 col-sm-12">
@@ -20,11 +20,11 @@ function Luxury() {
                                 <div className="feature-title pb-20">                               
                                     <h5>Luxury Hotel & Resort</h5>
                                 <h2>
-                                 Pearl Of The Adriatic.
+                                 .The Oil Field Safari lodge.
                                 </h2>                             
                                 </div>
-                                <p>Vestibulum non ornare nunc. Maecenas a metus in est iaculis pretium. Aliquam ullamcorper nibh lacus, ac suscipit ipsum consequat porttitor.Aenean vehicula ligula eu rhoncus porttitor. Duis vel lacinia quam. Nunc rutrum porta ex, in imperdiet tortor feugiat at.</p>
-                                <p>Cras finibus laoreet felis et hendrerit. Integer ligula lorem, finibus vitae lorem at, egestas consectetur urna. Integer id ultricies elit. Maecenas sodales nibh, quis posuere felis. In commodo mi lectus venenatis metus eget fringilla. Suspendisse varius ante eget.</p>
+                                <p>Participate in community activities and a bicycle tour to Murchison Falls National Game Park.</p>
+                                <p>The magnificent HB Safari Lodge is a newly constructed lodge loved by travelers. Perched on the shores of Lake Albert with dramatic views overlooking Uganda’s Oil field; Tilenga and Democratic Republic of Congo (DRC). Our Safari Lodge is the first accommodation choice for travelers to the Albertine region and Murchison Falls N.P.</p>
                                 <div className="slider-btn mt-15">                                          
                                     <Link to="/about" className="btn ss-btn smoth-scroll">Discover More</Link>				
                                 </div>

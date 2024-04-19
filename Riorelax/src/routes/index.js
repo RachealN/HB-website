@@ -8,16 +8,11 @@ import About from '../component/About/Main'
 import OurRoom from '../component/Rooms/OurRoom/Main'
 import RoomDetails from '../component/Rooms/RoomDetails/Main'
 import Service from '../component/Facilities/Service/Main'
-import ServiceDetails from '../component/Facilities/ServiceDetails/Main'
 import Gallery from '../component/Pages/Gallary/Main'
 import Faq from '../component/Faq/Main'
 import Team from '../component/Pages/Team/Main'
-import TeamDetails from '../component/Pages/TeamDetails/Main'
-import Pricing from '../component/Pages/Pricing/Main'
-import Shop from '../component/Pages/Shop/Main'
-import ShopDetails from '../component/Pages/ShopDetails/Main'
-import Blog from '../component/Blog/BlogMain/Main'
-import BlogDetails from '../component/Blog/BlogDetails/Main'
+// import Blog from '../component/Blog/BlogMain/Main'
+// import BlogDetails from '../component/Blog/BlogDetails/Main'
 import Contact from '../component/Contact/Main'
 
 
@@ -55,16 +50,11 @@ const Routing = () => {
                 <Route path="/room" element={<OurRoom />} />
                 <Route path="/room-details" element={<RoomDetails />} />
                 <Route path="/service" element={<Service />} />
-                <Route path="/service-details" element={<ServiceDetails />} />
                 <Route path="/gallery" element={<Gallery />} />
                 <Route path="/faq" element={<Faq />} />
                 <Route path="/team" element={<Team />} />
-                <Route path="/team-details" element={<TeamDetails />} />
-                <Route path="/pricing" element={<Pricing />} />
-                <Route path="/shop" element={<Shop />} />
-                <Route path="/shop-details" element={<ShopDetails />} />
-                <Route path="/blog" element={<Blog />} />
-                <Route path="/blog-details" element={<BlogDetails />} />
+                {/* <Route path="/blog" element={<Blog />} />
+                <Route path="/blog-details" element={<BlogDetails />} /> */}
                 <Route path="/contact" element={<Contact />} />
             </Routes>
             {footerpage && <Footer />}

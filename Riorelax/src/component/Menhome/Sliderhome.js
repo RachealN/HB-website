@@ -1,6 +1,4 @@
 import React, { useState } from 'react'
-import BGImg from "../../assets/img/slider/slider_bg.png";
-import BGImg1 from "../../assets/img/slider/slider_bg_01.png";
 import Slider from "react-slick"
 import { Link } from 'react-router-dom';
 
@@ -50,13 +48,13 @@ function Sliderhome() {
             <section id="home" className="slider-area fix p-relative">
                 <Slider className="slider-active" {...home}>
                     <div className="col-xl-2">
-                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: `url(${BGImg})` }}>
+                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://www.bluediamondrivieramaya.com/images/gallery/gallery-4.jpg")', }} >
                             <div className="container">
                                 <div className="row justify-content-center align-items-center">
                                     <div className="col-lg-7 col-md-7">
                                         <div className="slider-content s-slider-content mt-80 text-center">
-                                            <h2 className={`${animation && "animation" && "fadeInUp"} `} data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}>Enjoy A Luxuary Experience</h2>
-                                            <p data-animation="fadeInUp" data-delay=".6s">Donec vitae libero non enim placerat eleifend aliquam erat volutpat. Curabitur diam ex, dapibus purus sapien, cursus sed nisl tristique, commodo gravida lectus non.</p>
+                                            <h2 className={`${animation && "animation" && "fadeInUp"} `} data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}></h2>
+                                          
 
                                             <div className="slider-btn mt-30 mb-105">
                                                 <Link to="/contact" className="btn ss-btn active mr-15" data-animation="fadeInLeft" data-delay=".4s">Discover More </Link>
@@ -69,13 +67,13 @@ function Sliderhome() {
                         </div>
                     </div>
                     <div className="col-xl-2">
-                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: `url(${BGImg1})`, background_size: "cover" }}>
+                        <div className="single-slider slider-bg d-flex align-items-center" style={{ backgroundImage: 'url("https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2017/45759/0_pool-G.jpg")', backgroundSize: "cover" }}>
                             <div className="container">
                                 <div className="row justify-content-center align-items-center">
                                     <div className="col-lg-7 col-md-7">
                                         <div className="slider-content s-slider-content mt-80 text-center">
-                                            <h2 data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}>Enjoy A Luxuary Experience</h2>
-                                            <p data-animation="fadeInUp" data-delay=".6s">Donec vitae libero non enim placerat eleifend aliquam erat volutpat. Curabitur diam ex, dapibus purus sapien, cursus sed nisl tristique, commodo gravida lectus non.</p>
+                                            <h2 data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}></h2>
+                                          
 
                                             <div className="slider-btn mt-30 mb-105">
                                                 <Link to="/contact" className="btn ss-btn active mr-15" data-animation="fadeInLeft" data-delay=".4s">Discover More </Link>

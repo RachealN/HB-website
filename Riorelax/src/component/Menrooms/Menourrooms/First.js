@@ -24,7 +24,7 @@ function First() {
                                 <div className="services-thumb" onClick={() => {setToggler(!toggler) 
                                     setActiveImage(1)}}>
                                     <Link to="#" onClick={() => setImg(true)} className="gallery-link popup-image" >
-                                        <img src="assets/img/gallery/room-img01.png" alt="img" />
+                                        <img src="https://www.acaciahotelsmanila.com/wp-content/uploads/2023/05/Rooms-and-Suites-AHM-1.jpg" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="services-content">
@@ -56,7 +56,7 @@ function First() {
                                     setActiveImage(2)
                                 }}>
                                     <Link to="#" onClick={() => setImg1(true)} className="gallery-link popup-image" >
-                                        <img src="assets/img/gallery/room-img02.png" alt="img" />
+                                        <img src="https://www.peninsula.com/en/-/media/pbk/rooms/deluxe-room-twin-bed.jpg?mw=905&hash=9515693D3D8455DE1F48031E23A9C6BA" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="services-content">
@@ -88,7 +88,7 @@ function First() {
                                     setActiveImage(3)
                                 }}>
                                     <Link to="#" onClick={() => setImg2(true)} className="gallery-link popup-image" >
-                                        <img src="assets/img/gallery/room-img03.png" alt="img" />
+                                        <img src="https://sitecore-cd-imgr.shangri-la.com/MediaFiles/9/8/4/%7B984A8BD0-FC33-4BC1-BF9A-661E56C4412F%7D72d8e1b8f63648b3a21cabed0642f70c.jpg" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="services-content">
@@ -120,7 +120,7 @@ function First() {
                                     setActiveImage(4)
                                 }}>
                                     <Link to="#" onClick={() => setImg3(true)} className="gallery-link popup-image" >
-                                        <img src="assets/img/gallery/room-img04.png" alt="img" />
+                                        <img src="https://www.acaciahotelsmanila.com/wp-content/uploads/2023/05/Rooms-and-Suites-AHM-1.jpg" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="services-content">
@@ -152,7 +152,7 @@ function First() {
                                     setActiveImage(5)
                                 }}>
                                     <Link to="#" onClick={() => setImg4(true)} className="gallery-link popup-image">
-                                        <img src="assets/img/gallery/room-img05.png" alt="img" />
+                                        <img src="https://www.peninsula.com/en/-/media/pbk/rooms/deluxe-room-twin-bed.jpg?mw=905&hash=9515693D3D8455DE1F48031E23A9C6BA" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="services-content">
@@ -184,7 +184,7 @@ function First() {
                                     setActiveImage(6)
                                 }}>
                                     <Link to="#" onClick={() => setImg5(true)} className="gallery-link popup-image" >
-                                        <img src="assets/img/gallery/room-img06.png" alt="img" />
+                                        <img src="https://www.acaciahotelsmanila.com/wp-content/uploads/2023/05/Rooms-and-Suites-AHM-1.jpg" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="services-content">

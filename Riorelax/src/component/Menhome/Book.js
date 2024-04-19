@@ -7,7 +7,7 @@ function Book() {
   return (
     <>
         <section className="booking pt-120 pb-120 p-relative fix">
-                <div className="animations-01"><img src={Hotel} alt="an-img-01"/></div>
+                <div className="animations-01"><img src="https://mediacity.co.in/riorelax/static/media/feature.19e9aa21add79eabff7d.png" alt="img" class="img"/></div>
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
@@ -71,7 +71,7 @@ function Book() {
                         </div>
                         <div className="col-lg-6 col-md-6">
                              <div className="booking-img">
-                                 <img src={Booking} alt="img"/>
+                             <img src="	https://mediacity.co.in/riorelax/static/media/booking-img.1ca4b05119109cbc743c.png" alt="img"/>
                             </div>
                         </div>
                     </div>

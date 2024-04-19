@@ -44,24 +44,24 @@ function First() {
                                     <div className="f-cta-icon">
                                         <i className="far fa-map"></i>
                                     </div>
-                                    <h5>Office Address</h5>
-                                    <p>380 St Kilda Road, Melbourne <br />
-                                        VIC 3004, Australia</p>
+                                    <h5>Lodge Address</h5>
+                                    <p>Kasenyi Village, Buliisa District – <br /> Uganda
+                                       </p>
                                 </div>
                                 <div className="single-cta pb-30 mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
                                     <div className="f-cta-icon">
                                         <i className="far fa-clock"></i>
                                     </div>
                                     <h5>Working Hours</h5>
-                                    <p>Monday to Friday 09:00 to 18:30 <br />
-                                        Saturday 15:30</p>
+                                    <p>Monday - Sunday<br />
+                                        24 hours</p>
                                 </div>
                                 <div className="single-cta wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
                                     <div className="f-cta-icon">
                                         <i className="far fa-envelope-open"></i>
                                     </div>
-                                    <h5>Message Us</h5>
-                                    <p> <Link to="#">support@example.com</Link><br /><Link to="#">info@example.com</Link></p>
+                                    <h5>REACH US</h5>
+                                    <p>Phone : +256 789 099 949 | +256 701 570 836<br /><Link to="#"></Link></p>
                                 </div>
                             </div>
                         </div>

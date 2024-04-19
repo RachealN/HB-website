@@ -44,14 +44,15 @@ function Testimonial() {
 
   return (
     <>
-        <section className="testimonial-area pt-120 pb-90 p-relative fix" style={{backgroundImage: `url(${BGTest})`, background_size: "cover"}} >
+        <section className="testimonial-area pt-120 pb-90 p-relative fix" style={{backgroundImage: 'url("https://mediacity.co.in/riorelax/static/media/testimonial-bg.31412beecfbce8b1bbb9.png")', background_size: "cover"}} >
                 <div className="container">
                     <div className="row">
                          <div className="col-lg-12">
                             <div className="section-title center-align mb-50 text-center">
                                 <h5>Testimonial</h5>
                                 <h2>What Our Clients Says</h2>
-                                <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
+                                <p>
+"We had an unforgettable weekend at this wonderful lodge! The ambiance was simply superb: cozy rooms, stunning views of nature, and excellent service!"</p>
                             </div>
                         </div>
                         <div className="col-lg-12">
@@ -60,14 +61,15 @@ function Testimonial() {
                                      <div className="testi-author">
                                         <img src={avatar1} alt="img"/>
                                         <div className="ta-info">
-                                            <h6>Jina Nilson</h6>
+                                            <h6>Nilson</h6>
                                             <span>Client</span>
                                         </div>
                                     </div>
                                     <div className="review-icon">
                                         <img src={Aicon1} alt="img"/>
                                      </div>
-                                    <p>“Phasellus aliquam quis lorem amet dapibus feugiat vitae purus vitae efficitur. Vestibulum sed elit id orci rhoncus ultricies. Morbi vitae semper consequat ipsum semper quam”.</p>
+                                    <p>“
+"We had an unforgettable weekend at this wonderful lodge! The ambiance was simply superb: cozy rooms, stunning views of nature, and excellent service”.</p>
                                     
                                     <div className="qt-img">
                                     <img src={Aicon} alt="img"/>
@@ -77,14 +79,14 @@ function Testimonial() {
                                         <div className="testi-author">
                                             <img src={avatar2} alt="img"/>
                                             <div className="ta-info">
-                                                <h6>Braitly Dcosta</h6>
+                                                <h6>ANDY</h6>
                                                 <span>Client</span>
                                             </div>
                                         </div>
                                     <div className="review-icon">
                                             <img src={Aicon1} alt="img"/>
                                         </div>
-                                        <p>“Phasellus aliquam quis lorem amet dapibus feugiat vitae purus vitae efficitur. Vestibulum sed elit id orci rhoncus ultricies. Morbi vitae semper consequat ipsum semper quam”.</p>
+                                        <p>“The staff was very friendly and attentive, always ready to help. I will definitely be back here again!”.</p>
                                         
                                         <div className="qt-img">
                                         <img src={Aicon} alt="img"/>
@@ -94,14 +96,14 @@ function Testimonial() {
                                         <div className="testi-author">
                                             <img src={avatar3} alt="img"/>
                                             <div className="ta-info">
-                                                <h6>Roboto Dose</h6>
+                                                <h6>ROSE</h6>
                                                 <span>Client</span>
                                             </div>
                                         </div>
                                         <div className="review-icon">
                                             <img src={Aicon1} alt="img"/>
                                         </div>
-                                        <p>“Phasellus aliquam quis lorem amet dapibus feugiat vitae purus vitae efficitur. Vestibulum sed elit id orci rhoncus ultricies. Morbi vitae semper consequat ipsum semper quam”.</p>
+                                        <p>“The staff was very friendly and attentive, always ready to help. I will definitely be back here again!”.</p>
                                         
                                         <div className="qt-img">
                                         <img src={Aicon} alt="img"/>
@@ -111,14 +113,14 @@ function Testimonial() {
                                      <div className="testi-author">
                                         <img src={avatar2} alt="img"/>
                                         <div className="ta-info">
-                                            <h6>Braitly Dcosta</h6>
+                                            <h6>RACHEAL</h6>
                                             <span>Client</span>
                                         </div>
                                     </div>
                                    <div className="review-icon">
                                         <img src={Aicon1} alt="img"/>
                                      </div>
-                                      <p>“Phasellus aliquam quis lorem amet dapibus feugiat vitae purus vitae efficitur. Vestibulum sed elit id orci rhoncus ultricies. Morbi vitae semper consequat ipsum semper quam”.</p>
+                                      <p>“The staff was very friendly and attentive, always ready to help. I will definitely be back here again!”.</p>
                                     
                                     <div className="qt-img">
                                     <img src={Aicon} alt="img"/>

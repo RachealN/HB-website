@@ -13,16 +13,16 @@ function Prices() {
                     <div className="row justify-content-center align-items-center">
                         <div className="col-lg-4 col-md-12">
                             <div className="section-title mb-20">
-                                <h5>Best Prices</h5>
-                                <h2>Extra Services</h2>                               
+                                <h5>Safari Tour</h5>
+                                <h2>Popular Destinations</h2>                               
                             </div>
-                            <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
-                            <p>Cras finibus laoreet felis et hendrerit. Integer ligula lorem, finibus vitae lorem at, egestas consectetur urna. Integer id ultricies elit. Maecenas sodales nibh, quis posuere felis. In commodo mi lectus venenatis metus eget fringilla. Suspendisse varius ante eget.</p>
+                            <p>"Explore the untamed beauty of our game reserve, where majestic wildlife roams free and breathtaking landscapes await your discovery. Embark on an unforgettable safari adventure and witness nature's wonders up close in this popular destination."</p>
+                            <p>"Journey to our renowned game reserve, a haven for wildlife enthusiasts and nature lovers alike. Immerse yourself in the sights and sounds of the African wilderness as you encounter iconic species such as lions, elephants, and giraffes. With luxurious accommodations and thrilling safari experiences, it's no wonder our reserve is a top choice for travelers seeking an authentic African safari."</p>
                         </div>
                         <div className="col-lg-4 col-md-6">
                             <div className="pricing-box pricing-box2 mb-60">
                                 <div className="pricing-head">  
-                                    <h3>Room cleaning</h3>    
+                                    <h3>Murchision Park</h3>    
                                     <p>Perfect for early-stage startups</p>
                                     <div className="month">Monthly</div>
                                     <div className="price-count">
@@ -33,8 +33,8 @@ function Prices() {
                                 <div className="pricing-body mt-20 mb-30 text-left">
                                     <ul>
                                         <li>Hotel quis justo at lorem</li>
-                                        <li>Fusce sodales, urna et tempus</li>
-                                        <li>Vestibulum blandit lorem quis</li>                                           
+                                        <li>Park drive</li>
+                                        <li>Game Drive</li>                                           
                                     </ul>
                                 </div>  
                                 <div className="pricing-btn">
@@ -45,7 +45,7 @@ function Prices() {
                          <div className="col-lg-4 col-md-6">
                             <div className="pricing-box pricing-box2 mb-60">
                                 <div className="pricing-head">  
-                                    <h3>Drinks included</h3>    
+                                    <h3>Mount Elgon National Park</h3>    
                                     <p>Perfect for early-stage startups</p>
                                     <div className="month">Monthly</div>
                                     <div className="price-count">
@@ -56,8 +56,8 @@ function Prices() {
                                 <div className="pricing-body mt-20 mb-30 text-left">
                                     <ul>
                                         <li>Hotel quis justo at lorem</li>
-                                        <li>Fusce sodales, urna et tempus</li>
-                                        <li>Vestibulum blandit lorem quis</li> 
+                                        <li>Pak drive</li>
+                                        <li>Game watching</li> 
                                     </ul>
                                 </div> 
                                 <div className="pricing-btn">

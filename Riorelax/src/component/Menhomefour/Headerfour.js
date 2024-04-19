@@ -21,10 +21,10 @@ function Headerfour() {
                                 <div className="header-cta">
                                     <ul>
                                         <li><i className="far fa-clock"></i>
-                                            <span>Mon - Fri: 9:00 - 19:00/ Closed on Weekends</span>
+                                            <span>Mon - Sun: 24 hours </span>
                                         </li>
                                         <li><i className="far fa-mobile"></i>
-                                            <strong>+91 705 210-1786</strong>
+                                            <strong>Phone : +256 789 099 949 | +256 701 570 836</strong>
                                         </li>
                                     </ul>
                                 </div>
@@ -48,7 +48,7 @@ function Headerfour() {
                             <div className="row align-items-center">
                                 <div className="col-xl-2 col-lg-2">
                                     <div className="logo">
-                                        <Link to="/"><img src="assets/img/logo/logo.png" alt="logo" /></Link>
+                                        <Link to="/"><img src="https://www.hbsafarilodge.com/wp-content/uploads/2023/05/HBLOGO.png" alt="logo" /></Link>
                                     </div>
                                 </div>
                                 <div className="col-xl-9 col-lg-9">
@@ -59,8 +59,6 @@ function Headerfour() {
                                                     <Link to="/">Home</Link>
                                                     <ul>
                                                         <li><Link to="/">Home Page 01</Link></li>
-                                                        <li><Link to="/home-02">Home Page 02</Link></li>
-                                                        <li><Link to="/home-03">Home Page Side Menu</Link></li>
                                                         <li><Link to="/home-04">Home Page Full Menu</Link></li>
                                                     </ul>
                                                 </li>
@@ -85,18 +83,10 @@ function Headerfour() {
                                                         <li><Link to="/faq">Faq</Link></li>
                                                         <li><Link to="/team">Team</Link></li>
                                                         <li><Link to="/team-details">Team Details</Link></li>
-                                                        <li><Link to="/pricing">Pricing</Link></li>
-                                                        <li><Link to="/shop">Shop</Link></li>
-                                                        <li><Link to="/shop-details">Shop Details</Link></li>
+                                                        
                                                     </ul>
                                                 </li>
-                                                <li className="has-sub">
-                                                    <Link to="/blog">Blog</Link>
-                                                    <ul>
-                                                        <li><Link to="/blog">Blog</Link></li>
-                                                        <li><Link to="/blog-details">Blog Details</Link></li>
-                                                    </ul>
-                                                </li>
+                                            
                                                 <li><Link to="/contact">Contact</Link></li>
                                             </ul>
                                         </nav>
@@ -127,8 +117,7 @@ function Headerfour() {
                                                             <Link to="/">Home</Link>
                                                             <ul style={{ display: show ? "block" : "none" }}>
                                                                 <li><Link to="/">Home Page 01</Link></li>
-                                                                <li><Link to="/home-02">Home Page 02</Link></li>
-                                                                <li><Link to="/home-03">Home Page Side Menu</Link></li>
+                                                                
                                                                 <li><Link to="/home-04">Home Page Full Menu</Link></li>
                                                             </ul>
                                                             <Link to="#" className={`mean-expand ${show && "mean-clicked"}`} onClick={() => setshow(show === true ? false : true)} style={{ fontSize: "18px" }}>{show ? "-" : "+"}</Link>
@@ -153,18 +142,11 @@ function Headerfour() {
                                                                 <li><Link to="/gallery">Gallery</Link></li>
                                                                 <li><Link to="/faq">Faq</Link></li>
                                                                 <li><Link to="/team">Team</Link></li>
-                                                                <li><Link to="/team-details">Team Details</Link></li>
-                                                                <li><Link to="/pricing">Pricing</Link></li>
-                                                                <li><Link to="/shop">Shop</Link></li>
-                                                                <li><Link to="/shop-details">Shop Details</Link>
-                                                                </li></ul>
+                                                               
+                                                          
+                                                            </ul>
                                                             <Link to="#" className={`mean-expand ${show3 && "mean-clicked"}`} onClick={() => setshow3(show3 === true ? false : true)} style={{ fontSize: "18px" }}>{show3 ? "-" : "+"}</Link></li>
                                                         <li className="has-sub">
-                                                            <Link to="/blog/">Blog</Link>
-                                                            <ul style={{ display: show4 ? "block" : "none" }}>
-                                                                <li><Link to="/blog/">Blog</Link></li>
-                                                                <li><Link to="/blog-details/">Blog Details</Link></li>
-                                                            </ul>
                                                             <Link to="#" className={`mean-expand ${show4 && "mean-clicked"}`} onClick={() => setshow4(show4 === true ? false : true)} style={{ fontSize: "18px" }}>{show4 ? "-" : "+"}</Link></li>
                                                         <li className="mean-last"><Link to="/contact">Contact</Link></li>
                                                     </ul>}

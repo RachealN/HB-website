@@ -19,9 +19,9 @@ function Explore() {
                             <div className="section-title center-align mb-50 text-center">
                                 <h5>Explore</h5>
                                 <h2>
-                                    The Hotel
+                                    The Bar and Restaurant
                                 </h2>
-                                <p>Proin consectetur non dolor vitae pulvinar. Pellentesque sollicitudin dolor eget neque viverra, sed interdum metus interdum. Cras lobortis pulvinar dolor, sit amet ullamcorper dolor iaculis vel</p>
+                                <p>Our Restaurant has got  enough space for casual dining with family and friends. Our experienced chefs prepare contemporary continental as well as local cuisine featuring a wide variety of creative dishes. Both Breakfast and Lunch Buffet.</p>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6">
@@ -33,8 +33,8 @@ function Explore() {
                                      <img src={Hotel1} alt="img"/>
                                     </div>
                                     <div className="services-08-content">
-                                        <h3><Link to="/service-details"> Qulity Room</Link></h3>
-                                        <p>Nullam molestie lacus sit amet velit fermentum feugiat. Mauris auctor eget nunc sit amet.</p>
+                                        <h3><Link to="/service-details"> Quality Room</Link></h3>
+                                        <p>We will have information about each specific suite here</p>
                                         <Link to="/service-details">Read More <i className="fal fa-long-arrow-right"></i></Link>
                                     </div>
                                 </div>
@@ -48,8 +48,8 @@ function Explore() {
                                    <img src={Hotel2} alt="img"/>
                                     </div>
                                     <div className="services-08-content">
-                                        <h3><Link to="/service-details">Privet Beach</Link></h3>
-                                       <p>Nullam molestie lacus sit amet velit fermentum feugiat. Mauris auctor eget nunc sit amet.</p>
+                                        <h3><Link to="/service-details">Swimming Pool</Link></h3>
+                                       <p>"Dive into relaxation at our refreshing pool!"</p>
                                          <Link to="/service-details">Read More <i className="fal fa-long-arrow-right"></i></Link>
                                     </div>
                                 </div>
@@ -64,7 +64,7 @@ function Explore() {
                                     </div>
                                     <div className="services-08-content">
                                         <h3><Link to="/service-details">Best Accommodation</Link></h3>
-                                        <p>Nullam molestie lacus sit amet velit fermentum feugiat. Mauris auctor eget nunc sit amet.</p>
+                                        <p>Experience the best in accommodation with our comfortable and inviting rooms, designed to make your stay unforgettable.</p>
                                          <Link to="/service-details">Read More <i className="fal fa-long-arrow-right"></i></Link>
                                     </div>
                                 </div>
@@ -79,7 +79,8 @@ function Explore() {
                                     </div>
                                     <div className="services-08-content">
                                         <h3><Link to="/service-details"> Wellness & Spa</Link></h3>
-                                        <p>Nullam molestie lacus sit amet velit fermentum feugiat. Mauris auctor eget nunc sit amet.</p>
+                                        <p>
+"Indulge in relaxation and rejuvenation at our wellness spa, where expert therapists and serene surroundings combine to create a blissful retreat</p>
                                         <Link to="/service-details">Read More <i className="fal fa-long-arrow-right"></i></Link>
                                     </div>
                                 </div>
@@ -94,7 +95,7 @@ function Explore() {
                                     </div>
                                     <div className="services-08-content">
                                         <h3><Link to="/service-details">Restaurants & Bars</Link></h3>
-                                       <p>Nullam molestie lacus sit amet velit fermentum feugiat. Mauris auctor eget nunc sit amet.</p>
+                                       <p>Drink and relax at our state of the art bar.</p>
                                          <Link to="/service-details">Read More <i className="fal fa-long-arrow-right"></i></Link>
                                     </div>
                                 </div>
@@ -109,7 +110,7 @@ function Explore() {
                                     </div>
                                     <div className="services-08-content">
                                         <h3><Link to="/service-details">Special Offers</Link></h3>
-                                        <p>Nullam molestie lacus sit amet velit fermentum feugiat. Mauris auctor eget nunc sit amet.</p>
+                                        <p>"Check out our exclusive deals and discounts!"</p>
                                          <Link to="/service-details">Read More <i className="fal fa-long-arrow-right"></i></Link>
                                     </div>
                                 </div>

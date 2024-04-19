@@ -14,9 +14,9 @@ function Most() {
                     <div className="row justify-content-center align-items-center">
                         <div className="col-lg-6 col-md-12 col-sm-12">
                             <div className="s-about-img p-relative  wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
-                                <img src={About1} alt="img"/>   
+                            <img src="https://mediacity.co.in/riorelax/static/media/about_img_02.7e903ba6dfa05e8fba95.png" alt="img"/>
                                 <div className="about-icon">
-                                    <img src={About2} alt="img"/>   
+                                <img src="https://mediacity.co.in/riorelax/static/media/about_img_03.1c5c297b3a2fd0ad6b03.png" alt="img"/>  
                                 </div>
                             </div>
                         </div>
@@ -24,10 +24,10 @@ function Most() {
                             <div className="about-content s-about-content  wow fadeInRight  animated pl-30" data-animation="fadeInRight" data-delay=".4s">
                                 <div className="about-title second-title pb-25">  
                                     <h5>About Us</h5>
-                                    <h2>Most Safe & Rated Hotel In London.</h2>                                   
+                                    <h2>Most Safe & Rated Hotel In Uganda.</h2>                                   
                                 </div>
-                                   <p>Morbi tortor urna, placerat vel arcu quis, fringilla egestas neque. Morbi sit amet porta erat, quis rutrum risus. Vivamus et gravida nibh, quis posuere felis. In commodo mi lectus, Integer ligula lorem, finibus vitae lorem vitae tincidunt dolor consequat quis.</p>
-                                    <p>Cras finibus laoreet felis et hendrerit. Integer ligula lorem, finibus vitae lorem at, egestas consectetur urna. Integer id ultricies elit. Maecenas sodales nibh, quis posuere felis. In commodo mi lectus venenatis metus eget fringilla. Suspendisse varius ante eget lorem tempus blandit. Aenean eu vulputate lorem, quis auctor lectus.</p>
+                                   <p>Enjoy the finest views in Africa, overlooking Lake Albert and the Blue Mountains in the Democratic Republic of Congo to the West, and Tilenga Central Processing Facility to the East. </p>
+                                  
                                     <div className="about-content3 mt-30">
                                     <div className="row justify-content-center align-items-center">
                                     <div className="col-md-12">
