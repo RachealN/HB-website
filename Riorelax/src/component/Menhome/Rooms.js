@@ -93,7 +93,7 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details"> Balcony Room</Link></h4>    
+                                    <h4><Link to="/room-details"> Single Cottage</Link></h4>    
                                     <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway</p>
                                     <div className="icon">
                                         <ul>
@@ -125,7 +125,7 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Superior Suite</Link></h4>    
+                                    <h4><Link to="/room-details">Double Villa</Link></h4>    
                                     <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway</p>
                                     <div className="icon">
                                         <ul>
@@ -157,7 +157,7 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Double cottage</Link></h4>    
+                                    <h4><Link to="/room-details"> Executive Double cottage</Link></h4>    
                                     <p>Our super balcony room offers a luxurious escape with a private balcony overlooking stunning views. The room features a comfortable king-sized bed, modern amenities, and elegant decor. </p>
                                     <div className="icon">
                                         <ul>
@@ -189,7 +189,7 @@ function Rooms() {
                                             <li><Link to="/contact">Book Now</Link></li>
                                         </ul>
                                     </div>
-                                    <h4><Link to="/room-details">Delux Double Room</Link></h4>    
+                                    <h4><Link to="/room-details">Family Banda</Link></h4>    
                                    <p>Escape to our charming cottage, where comfort meets rustic elegance. Nestled amidst lush greenery, this cozy retreat offers everything you need for a relaxing getaway.</p>
                                     <div className="icon">
                                         <ul>

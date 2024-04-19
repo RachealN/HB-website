@@ -24,7 +24,7 @@ function Most() {
                             <div className="about-content s-about-content  wow fadeInRight  animated pl-30" data-animation="fadeInRight" data-delay=".4s">
                                 <div className="about-title second-title pb-25">  
                                     <h5>About Us</h5>
-                                    <h2>Most Safe & Rated Hotel In Uganda.</h2>                                   
+                                    <h2>The magnificent HB Safari Lodge</h2>                                   
                                 </div>
                                    <p>Enjoy the finest views in Africa, overlooking Lake Albert and the Blue Mountains in the Democratic Republic of Congo to the West, and Tilenga Central Processing Facility to the East. </p>
                                   
