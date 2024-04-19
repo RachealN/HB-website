@@ -42,7 +42,7 @@ function Skill() {
                         </div>
                         <div className="col-lg-6 col-md-12 col-sm-12 pr-30">
                             <div className="skills-img wow fadeInRight  animated" data-animation="fadeInRight" data-delay=".4s">
-                                <img src="assets/img/bg/skills-img.png" alt="img" className="img" />
+                                <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/77/f4/6e/lindos-blu.jpg?w=700&h=-1&s=1.jpg" alt="img" className="img" />
                             </div>
                         </div>
                     </div>
